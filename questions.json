@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Quale linguaggio gira sulla JVM?",
+      "correct": "Java",
+      "wrong": ["Python", "C", "Rust"]
+    },
+    {
+      "question": "Cosa significa HTTP?",
+      "correct": "HyperText Transfer Protocol",
+      "wrong": ["High Tech Transfer Protocol", "Hyper Terminal Text Process", "Host Transfer Text Protocol"]
+    },
+    {
+      "question": "Quale struttura dati segue la logica LIFO?",
+      "correct": "Stack",
+      "wrong": ["Queue", "Tree", "Graph"]
+    },
+    {
+      "question": "Cosa fa il comando 'git commit'?",
+      "correct": "Salva le modifiche nel repository locale",
+      "wrong": ["Carica i file sul server remoto", "Crea un nuovo branch", "Elimina i file non tracciati"]
+    },
+    {
+      "question": "Cosa significa CPU?",
+      "correct": "Central Processing Unit",
+      "wrong": ["Central Programming Unit", "Computer Processing Utility", "Core Processing Unit"]
+    },
+    {
+      "question": "Quale protocollo usa la porta 443?",
+      "correct": "HTTPS",
+      "wrong": ["HTTP", "FTP", "SSH"]
+    },
+    {
+      "question": "In quale anno e stato creato il linguaggio Python?",
+      "correct": "1991",
+      "wrong": ["1985", "2000", "1978"]
+    },
+    {
+      "question": "Cosa indica la complessita O(1)?",
+      "correct": "Tempo costante",
+      "wrong": ["Tempo lineare", "Tempo quadratico", "Tempo logaritmico"]
+    },
+    {
+      "question": "Quale dei seguenti e un linguaggio compilato?",
+      "correct": "C++",
+      "wrong": ["Python", "JavaScript", "Ruby"]
+    },
+    {
+      "question": "Cos'e un indirizzo IP?",
+      "correct": "Un identificatore univoco di un dispositivo in rete",
+      "wrong": ["Il nome di un sito web", "Un tipo di cavo di rete", "Un protocollo di trasferimento file"]
+    },
+    {
+      "question": "Quale struttura dati segue la logica FIFO?",
+      "correct": "Queue",
+      "wrong": ["Stack", "Tree", "Hash Map"]
+    },
+    {
+      "question": "Cosa significa SQL?",
+      "correct": "Structured Query Language",
+      "wrong": ["Simple Query Language", "Sequential Query Logic", "Standard Question Language"]
+    },
+    {
+      "question": "Quanti bit ci sono in un byte?",
+      "correct": "8",
+      "wrong": ["4", "16", "32"]
+    },
+    {
+      "question": "Quale linguaggio si usa per lo stile delle pagine web?",
+      "correct": "CSS",
+      "wrong": ["HTML", "PHP", "SQL"]
+    },
+    {
+      "question": "Su quale base lavora il sistema binario?",
+      "correct": "Base 2",
+      "wrong": ["Base 8", "Base 10", "Base 16"]
+    },
+    {
+      "question": "Quale algoritmo di ordinamento ha complessita media O(n log n)?",
+      "correct": "QuickSort",
+      "wrong": ["BubbleSort", "InsertionSort", "SelectionSort"]
+    },
+    {
+      "question": "Cosa significa RAM?",
+      "correct": "Random Access Memory",
+      "wrong": ["Read Access Memory", "Rapid Access Module", "Random Allocation Memory"]
+    },
+    {
+      "question": "Quale comando Linux elenca i file di una cartella?",
+      "correct": "ls",
+      "wrong": ["cd", "rm", "mkdir"]
+    },
+    {
+      "question": "Cos'e un compilatore?",
+      "correct": "Un programma che traduce il codice sorgente in linguaggio macchina",
+      "wrong": ["Un editor di testo", "Un sistema operativo", "Un protocollo di rete"]
+    },
+    {
+      "question": "Quale tra questi e un database NoSQL?",
+      "correct": "MongoDB",
+      "wrong": ["MySQL", "PostgreSQL", "Oracle"]
+    }
+  ]
+}
