@@ -2,7 +2,7 @@
   "questions": [
     {
       "question": "Quale linguaggio gira sulla JVM?",
-      "correct": "Java",
+      "correct": "J4va",
       "wrong": ["Python", "C", "Rust"]
     },
     {
