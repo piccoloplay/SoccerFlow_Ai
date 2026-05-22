@@ -12,3 +12,6 @@ Available versions
 
 WebGL (browser): play instantly, nothing to install — but without the AI-trained goalkeeper.
 macOS / Windows: download this version to also try the goalkeeper controlled by the neural network (Reinforcement Learning).
+
+
+https://piccoloplay.itch.io/test
